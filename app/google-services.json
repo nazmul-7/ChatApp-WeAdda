@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683900898118",
+    "firebase_url": "https://weadda-2ca2d.firebaseio.com",
+    "project_id": "weadda-2ca2d",
+    "storage_bucket": "weadda-2ca2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683900898118:android:7b5bb196297e4f78",
+        "android_client_info": {
+          "package_name": "com.example.user.weadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683900898118-qeob5d04or3pjkb808cfi7gsvouo3igm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.weadda",
+            "certificate_hash": "93a92298736e27d528d7654c496ca8a85b7fce01"
+          }
+        },
+        {
+          "client_id": "683900898118-fgju5rsefn7rqnhuf3b6md5fc06g9mrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaA1LN6RsAjA01KzOeB7BHHrl3ntNf7lM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683900898118-fgju5rsefn7rqnhuf3b6md5fc06g9mrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
